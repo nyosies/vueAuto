@@ -1,5 +1,7 @@
 # common
 
+## 全局组件注册和路由
+## 路由未考虑到children,按照目录名进行组件注册
 ## Project setup
 ```
 npm install
